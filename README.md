@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Troy Corbitt</h1>
 <h3 align="center">A passionate frontend developer and UX Designer from Philadelphia</h3>
 
+- 🔭 I’m currently working on [Movie Review Platform](https://troycorbitt.github.io/TroyMovies/)
+
+- 🌱 I’m currently learning **Vue.JS, React**
+
+- 👨‍💻 All of my projects are available at [https://www.troycorbitt.com/](https://www.troycorbitt.com/)
+
+- 📫 How to reach me **tjc246@cornell.edu**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Oq9ew7obee08iNMZUynvP0JmABo3ROrl?usp=drive_link](https://drive.google.com/drive/folders/1Oq9ew7obee08iNMZUynvP0JmABo3ROrl?usp=drive_link)
+
+- ⚡ Fun fact **I have rewatched attack on titan five times**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/troy-corbitt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/troy-corbitt/" height="30" width="40" /></a>
